@@ -18,3 +18,4 @@ if ! [ -x "$(command -v node)" ]; then
     exit 1
 fi
 
+git clone https://github.com/gsbenevides2/minecraft_server_scripts.git mc_server
